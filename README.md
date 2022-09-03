@@ -1,4 +1,4 @@
-# JP_morgan_forage program created to give free virtual work programs to students
+# JP Morgan forage program created to give free virtual work programs to students
 #This is for the module to "Analyze a Large Dataset of Fraud in Financial Payment Services"
 
 For the first module of this project, we will need you to accomplish the following:
